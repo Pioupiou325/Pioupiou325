@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Pierre Picard
 
-### Développeur Web Full Stack | Passionné par les SaaS et l'innovation technologique mais aussi le développemnt de jeux vidéos et de sites web originaux
+### Développeur Web Full Stack | Passionné par les SaaS et l'innovation technologique mais aussi le développement de jeux vidéos et de sites web originaux
 
 Bienvenue sur mon profil GitHub ! Je suis développeur web avec une expertise dans les technologies front-end et back-end. Mon objectif est de créer des applications performantes, sécurisées et faciles à utiliser.
 
